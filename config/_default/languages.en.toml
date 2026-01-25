@@ -1,0 +1,46 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Emiliano Perez Ipiña"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo.png"
+description = "Emiliano Perez Ipiña's personal website"
+
+  [params.author]
+  name = "Emiliano Perez Ipiña"
+  email = "emperipi@gmail.com"
+  image = "logo.png"
+  imageQuality = 96
+  headline = "Motility and sensing"
+
+    [[params.author.links]]
+    email = "mailto:emperipi@gmail.com"
+
+    [[params.author.links]]
+    bluesky = "https://bsky.app/profile/username"
+
+    [[params.author.links]]
+    linkedin = "https://linkedin.com/in/username"
+
+    [[params.author.links]]
+    orcid = "https://orcid.org/0000-0000-0000-0000"
+
+    [[params.author.links]]
+    researchgate = "https://www.researchgate.net/profile/username"
+
+    [[params.author.links]]
+    website = "https://emperipi.github.io"
+
+    [[params.author.links]]
+    github = "https://github.com/username"
+
+["params.author"]
+image = "IMG_20240912_103358.jpg"
+name = "Emiliano Perez Ipiña"
+headline = "Motility and Sensing of microorganisms"

@@ -1,0 +1,41 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About me"
+pageRef = "about"
+identifier = "5sleYjg9xJ"
+weight = 1
+
+[[main]]
+name = "Research"
+pageRef = "research"
+identifier = "H4qic4HofV"
+weight = 2
+
+[[main]]
+name = "Teaching"
+pageRef = "teaching"
+identifier = "c7yqd67VSc"
+weight = 3
+
+[[main]]
+name = "Projects"
+pageRef = "projects"
+identifier = "8JKH47zSGk"
+weight = 4
+
+[[main]]
+name = "Publications"
+pageRef = "publications"
+identifier = "23d4f8g9H"
+weight = 5
+
+# [[main]]
+# name = "Contact"
+# pageRef = "contact"
+# identifier = "1s2d3f4g5h"
+# weight = 6  
+
+[[footer]]
+none = "none"

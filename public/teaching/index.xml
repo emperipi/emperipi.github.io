@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Emiliano Perez Ipiña</title>
-    <link>http://localhost:1313/teaching/</link>
+    <link>http://localhost:45327/teaching/</link>
     <description>Recent content in Teaching on Emiliano Perez Ipiña</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>emperipi@gmail.com (Emiliano Perez Ipiña)</managingEditor>
     <webMaster>emperipi@gmail.com (Emiliano Perez Ipiña)</webMaster>
     <copyright>© 2026 Emiliano Perez Ipiña</copyright>
-    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45327/teaching/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

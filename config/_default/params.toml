@@ -43,13 +43,13 @@ disableHeroImageFilter = false
 homepageImage = "liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper.jpg"
 
 [article]
-showDate = "False"
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
-showHero = "True"
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false

@@ -1,7 +1,7 @@
 ---
 title: "Motility and Sensing in Microorganisms"
 description: "Research at the intersection of physics and biology"
-layout: "hero"
+layout: "hero" #profile, page, hero, background, card
 # image: "main_sim3.gif"
 ---
 

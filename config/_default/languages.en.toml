@@ -23,22 +23,26 @@ description = "Emiliano Perez Ipiña's personal website"
     email = "mailto:emperipi@gmail.com"
 
     [[params.author.links]]
-    bluesky = "https://bsky.app/profile/username"
+    bluesky = "https://bsky.app/profile/emperipi.bsky.social"
 
     [[params.author.links]]
-    linkedin = "https://linkedin.com/in/username"
+    linkedin = "https://linkedin.com/in/emiliano-perez-ipiña-3854592a5"
 
     [[params.author.links]]
-    orcid = "https://orcid.org/0000-0000-0000-0000"
+    google-scholar = "https://scholar.google.com/citations?user=XnHBDaYAAAAJ&hl=en"
 
     [[params.author.links]]
-    researchgate = "https://www.researchgate.net/profile/username"
+    orcid = "https://orcid.org/0000-0002-1664-0411"
+
+    [[params.author.links]]
+    researchgate = "https://www.researchgate.net/profile/Emiliano-Perez-Ipina"
 
     [[params.author.links]]
     website = "https://emperipi.github.io"
 
     [[params.author.links]]
-    github = "https://github.com/username"
+    github = "https://github.com/emperipi"
+    
 
 ["params.author"]
 image = "IMG_20240912_103358.jpg"

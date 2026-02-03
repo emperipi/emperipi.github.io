@@ -6,12 +6,14 @@ layout: "hero" #profile, page, hero, background, card
 ---
 
 
-I study how cells, from bacteria and algae to mammalian eukaryotic cells, move and how their environments shape and guide that motion. My goal is to uncover the physical principles that govern the interplay between motility, migration, and complex environments, with implications for development, immune response, bacterial infection, and cancer invasion.
+I study how cells, from bacteria and algae to eukaryotic cells, move and how their environments shape and guide that motion. My goal is to uncover the physical principles that govern the interplay between motility, migration, and complex environments, with implications for development, immune response, bacterial infection, and cancer invasion.
 
-<figure style="text-align: center;">
+<!-- <figure style="text-align: center;">
   <img src="main_sim3.gif" alt="Microorganism motility research">
   <figcaption>Simulating cells that deposit and navigate their own footprint trails</figcaption>
-</figure>
+</figure> -->
+
+{{< carousel images="gallery/*" aspectRatio="28-10" interval="15000" >}}
 
 My research combines theoretical modeling, data-driven analysis, and quantitative approaches to address questions such as:
 

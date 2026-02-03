@@ -52,6 +52,11 @@ Cells may also coordinate movement without explicit positional knowledge. Based 
 We constructed phase diagrams delineating the conditions under which each strategy achieves superior accuracy, suggesting that cell clusters may employ distinct mechanisms in different contexts.
 
 
+<figure style="display: flex; flex-direction: column; align-items: center;">
+    <img src="g1072.png" alt="Phase diagram showing the trade-off between MLE and tug‑of‑war models across cluster size and gradient steepness.." width="550">
+<figcaption>Phase diagram showing the trade-off between MLE and tug‑of‑war models across cluster size and gradient steepness.</figcaption>
+</figure>
+
 ---
 - **Perez Ipiña, E.**, & Camley, B. A. (2022). Collective gradient sensing with limited positional information. *Physical Review E*, 105(4), 044410 [link](https://doi.org/10.1103/PhysRevE.105.044410).
 - **Perez Ipiña, E.**, & Ponce Dawson, S. (2016). Fluctuations, correlations, and the estimation of concentrations inside cells. *PLOS ONE*, 11(3), e0151132 [link](https://doi.org/10.1371/journal.pone.0151132).

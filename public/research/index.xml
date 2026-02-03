@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Emiliano Perez Ipiña</title>
-    <link>http://localhost:45327/research/</link>
+    <link>http://localhost:1313/research/</link>
     <description>Recent content in Research on Emiliano Perez Ipiña</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>emperipi@gmail.com (Emiliano Perez Ipiña)</managingEditor>
     <webMaster>emperipi@gmail.com (Emiliano Perez Ipiña)</webMaster>
     <copyright>© 2026 Emiliano Perez Ipiña</copyright>
-    <atom:link href="http://localhost:45327/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Navigating multiple gradients</title>
-      <link>http://localhost:45327/research/multiple_gradients/</link>
+      <link>http://localhost:1313/research/multiple_gradients/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>emperipi@gmail.com (Emiliano Perez Ipiña)</author>
-      <guid>http://localhost:45327/research/multiple_gradients/</guid>
+      <guid>http://localhost:1313/research/multiple_gradients/</guid>
       <description>How do cells decide which chemical signal to follow in complex environments? By weighting their movement toward the gradient they can sense most accurately, cells navigate competing cues and find effective paths even when signals conflict or overlap.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:45327/research/multiple_gradients/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/multiple_gradients/feature.png" />
     </item>
     
     <item>
       <title>How Cellular Footprints Guide Migration</title>
-      <link>http://localhost:45327/research/footprints/</link>
+      <link>http://localhost:1313/research/footprints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>emperipi@gmail.com (Emiliano Perez Ipiña)</author>
-      <guid>http://localhost:45327/research/footprints/</guid>
+      <guid>http://localhost:1313/research/footprints/</guid>
       <description>Migrating cells actively remodel their environment by leaving molecular footprints, which shape both individual and collective cell movement through dynamic feedback.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/footprints/feature.png" />
     </item>
     
     <item>
       <title>In Search of a Host: How Bacterial Motility Drives Infections</title>
-      <link>http://localhost:45327/research/bacteria/</link>
+      <link>http://localhost:1313/research/bacteria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>emperipi@gmail.com (Emiliano Perez Ipiña)</author>
-      <guid>http://localhost:45327/research/bacteria/</guid>
+      <guid>http://localhost:1313/research/bacteria/</guid>
       <description>How do bacteria efficiently find host cells near surfaces? By alternating swimming with brief stops and adhesion, they enhance their ability to explore and interact with the environment during infection.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/bacteria/feature.png" />
     </item>
     
     <item>
       <title>Cell Sensing and Navigation: From Individual Precision to Emergent Collective Behavior</title>
-      <link>http://localhost:45327/research/gradient_sensing/</link>
+      <link>http://localhost:1313/research/gradient_sensing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>emperipi@gmail.com (Emiliano Perez Ipiña)</author>
-      <guid>http://localhost:45327/research/gradient_sensing/</guid>
+      <guid>http://localhost:1313/research/gradient_sensing/</guid>
       <description>Eukaryotic cells sense noisy chemical signals in their environment to guide their directional movement.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/gradient_sensing/feature.png" />
     </item>
     
     <item>
       <title>How Physical Confinement Shapes Cancer Cell Migration and Invasion</title>
-      <link>http://localhost:45327/research/confinement_channels/</link>
+      <link>http://localhost:1313/research/confinement_channels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>emperipi@gmail.com (Emiliano Perez Ipiña)</author>
-      <guid>http://localhost:45327/research/confinement_channels/</guid>
+      <guid>http://localhost:1313/research/confinement_channels/</guid>
       <description>Physical barriers like narrow tissue channels can dramatically alter how cancer cells move and break away, revealing key mechanisms that underlie metastatic spread.</description>
       
     </item>

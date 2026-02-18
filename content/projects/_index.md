@@ -1,5 +1,5 @@
 ---
-title: "Projects -- including top secret"
+title: "Projects"
 layout: "hero"
 # meta_title: "Research"
 
